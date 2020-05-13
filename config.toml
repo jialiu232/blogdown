@@ -1,9 +1,13 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "Shut up and Shout out loud"
 theme = "hugo-theme-cleanwhite"
+# Enable comments by entering your Disqus shortname
 googleAnalytics = ""
 disqusShortname = ""
+preserveTaxonomyNames = true
+paginate = 5 #frontpage pagination
+hasCJKLanguage = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
