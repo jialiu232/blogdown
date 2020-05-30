@@ -60,7 +60,7 @@ section = [ "HTML", "RSS"]
   #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
   sidebar_avatar = "img/self.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
-  featured_tags = false
+  featured_tags = true
   featured_condition_size = 3 
 
 
