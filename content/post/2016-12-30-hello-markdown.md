@@ -1,11 +1,13 @@
 ---
 layout:     post
 date: "2016-12-30T21:49:57-07:00"
-title: A Plain Markdown Post
+title: "A Plain Markdown Post"
 tags:
-    - python
-    - travel
+    - Python
+    - Travel
+published: true
 categories: ["new_tech"]
+showtoc: false
 ---
 
 This is a post written in plain Markdown (`*.md`) instead of R Markdown (`*.Rmd`). The major differences are:
