@@ -16,7 +16,7 @@ home = ["HTML", "RSS", "Algolia"]
   header_image = "img/backpic.jpg"
   SEOTitle = "Laoyao Blog"
   description = "Laoyao, thinker, learner"
-  keyword = "laoyao"
+  keyword = "laoyao, is, this, features"
   slogan = "PHOTOGRAPH BY KETAN KHAMBHATTA (@KETANKHAMBHATTA)"
 
   image_404 = "img/404_pic.jpg"
@@ -50,8 +50,8 @@ home = ["HTML", "RSS", "Algolia"]
   
   # We need a proxy to access Disqus api in China
   # Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
-  #disqus_proxy = ""
-  #disqus_site = ""
+  disqus_proxy = ""
+  disqus_site = ""
 
   #Enable wechat pay & alipay to allow readers send reward money if they like the articles 
   #reward = true 
@@ -89,18 +89,18 @@ home = ["HTML", "RSS", "Algolia"]
   #title = "Linda的博客"
   #href =  "https://zhaozhihan.com"
 
-  [[params.bookmark_link]]
-  title =  "Martin Fowler"
-  href =  "https://martinfowler.com"
-  [[params.bookmark_link]]
-  title = "ServiceMesher"
-  href =  "http://www.servicemesher.com"
-  [[params.bookmark_link]]
-  title =  "Pxhere"
-  href = "https://pxhere.com"
-  [[params.bookmark_link]]
-  title = "unsplash"
-  href = "https://unsplash.com"
+  #[[params.bookmark_link]]
+  #title =  "Martin Fowler"
+  #href =  "https://martinfowler.com"
+  #[[params.bookmark_link]]
+  #title = "ServiceMesher"
+  #href =  "http://www.servicemesher.com"
+  #[[params.bookmark_link]]
+  #title =  "Pxhere"
+  #href = "https://pxhere.com"
+  #[[params.bookmark_link]]
+  #title = "unsplash"
+  #href = "https://unsplash.com"
   
   [[params.addtional_menus]]
   title =  "BOOKS"
@@ -108,6 +108,7 @@ home = ["HTML", "RSS", "Algolia"]
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
+
 
 [outputFormats.Algolia]
 baseName = "algolia"
