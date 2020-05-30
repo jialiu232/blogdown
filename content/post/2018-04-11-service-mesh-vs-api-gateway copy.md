@@ -12,7 +12,6 @@ tags:
     - Microservice
     - Service Mesh
     - API Gateway
-    - Travel
 URL: "/2018/04/11/service-mesh-vs-api-gateway/"
 categories: [ Tech ]
 ---
