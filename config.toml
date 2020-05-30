@@ -48,7 +48,7 @@ section = [ "HTML", "RSS"]
   # algolia site search
   algolia_search = true
   algolia_appId = ""
-  algolia_indexName = "ly's Blog"
+  algolia_indexName = ""
   algolia_apiKey = ""
 
 
@@ -61,7 +61,7 @@ section = [ "HTML", "RSS"]
   sidebar_avatar = "img/self.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true
-  featured_condition_size = 3 
+  featured_condition_size = 1
 
 
   # Google Site ID - search.google.com
@@ -151,12 +151,3 @@ params = ["categories", "tags"]
     startLevel = 1
   [markup.highlight]
     style = "dracula"
-    
-    
-[[related.indices]]
-name = "tags"
-weight = 100
-
-[[related.indices]]
-name = "categories"
-weight = 100

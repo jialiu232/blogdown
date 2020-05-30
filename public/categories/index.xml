@@ -6,17 +6,35 @@
     <description>Recent content in Categories on Laoyao Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 02 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://laoyao-blogsite.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>R</title>
-      <link>https://laoyao-blogsite.netlify.app/categories/r/</link>
+      <title>Tech</title>
+      <link>https://laoyao-blogsite.netlify.app/categories/tech/</link>
+      <pubDate>Sat, 02 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://laoyao-blogsite.netlify.app/categories/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>new_tech</title>
+      <link>https://laoyao-blogsite.netlify.app/categories/new_tech/</link>
+      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
+      
+      <guid>https://laoyao-blogsite.netlify.app/categories/new_tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rtest</title>
+      <link>https://laoyao-blogsite.netlify.app/categories/rtest/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://laoyao-blogsite.netlify.app/categories/r/</guid>
+      <guid>https://laoyao-blogsite.netlify.app/categories/rtest/</guid>
       <description></description>
     </item>
     
