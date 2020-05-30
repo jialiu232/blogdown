@@ -30,7 +30,7 @@ section = [ "HTML", "RSS"]
   header_image = "img/backpic.jpg"
   SEOTitle = "Laoyao Blog"
   description = "Laoyao, thinker, learner"
-  keyword = "laoyao, is, this, features"
+  keyword = "laoyao, is, this, features, Istio, python"
   slogan = "PHOTOGRAPH BY KETAN KHAMBHATTA (@KETANKHAMBHATTA)"
 
   image_404 = "img/404_pic.jpg"
